@@ -1,1 +1,1 @@
-# Augmented-Random-Search
+Augmented Random Search is an improved version of Basic Random Search and it has 3 improvements compared to BRS which are Dividing by the standard deviation, Normalizing the states and Using Top performing states. The model created is a cheetah model which will slowly learn how to walk. Firstly the reward recived isnegative but as time passes the reward becomess positive. The paper referred and the ouput videos are all uploaded.
